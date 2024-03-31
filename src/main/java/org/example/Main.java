@@ -6,7 +6,7 @@ public class Main {
         Tester tester2 = new Tester("Alice", "Smith", 3);
         Tester tester3 = new Tester("Bob", "Johnson", 5, "Intermediate", 50000.0);
 
-        // Выводим информацию о тестерах
+        //// Выводим информацию о тестерах
         tester1.printDetails();
         System.out.println();
         tester2.printDetails(false);

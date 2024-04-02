@@ -8,7 +8,7 @@ public class Main {
 
         //// Выводим информацию о тестерах
         tester1.printDetails();
-        System.out.println();
+        System.out.println();//
         tester2.printDetails(false);
         System.out.println(); //
         tester3.printDetails("Details for tester:");
